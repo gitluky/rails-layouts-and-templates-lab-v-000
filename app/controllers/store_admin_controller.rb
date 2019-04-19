@@ -11,7 +11,7 @@ class StoreAdminController < ApplicationController
   end
 
   def invoice
-
+    :layout => false
   end
 
 end
